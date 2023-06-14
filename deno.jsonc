@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "server": "deno run -A --watch server.ts"
+  }
+}
